@@ -1,0 +1,4 @@
+rootProject.name = 'task-queue-system'
+
+include 'service-a'
+include 'service-b'
